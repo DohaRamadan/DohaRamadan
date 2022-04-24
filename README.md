@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [https://github.com/DohaRamadan/My-Info/blob/main/DohaRamadan.pdf](https://github.com/DohaRamadan/My-Info/blob/main/DohaRamadan.pdf)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
