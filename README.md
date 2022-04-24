@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **doharamadan43@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/DohaRamadan/My-Info/blob/main/DohaRamadan.pdf](https://github.com/DohaRamadan/My-Info/blob/main/DohaRamadan.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/DohaRamadan/My-Info/blob/main/DohaRamadan.pdf)
 
 
 <p align="left">
