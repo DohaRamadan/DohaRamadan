@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Doha Ramadan</h1>
-<h3 align="center">A passionate Computer Science student from Egypt</h3>
-
-- I’m currently learning **Machine Learning and Computer Science.**
+<h3 align="center">A passionate Junior Software Engineer from Egypt</h3>
 
 - 📫 How to reach me **doharamadan43@gmail.com**
 
