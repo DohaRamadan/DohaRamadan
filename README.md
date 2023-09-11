@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **doharamadan43@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://github.com/DohaRamadan/My-Info/blob/main/Doha_Ramadan_CV.pdf)
-
 
 <p align="left">
 </p>
