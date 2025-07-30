@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Doha Ramadan</h1>
-<h3 align="center">A passionate Junior Software Engineer from Egypt</h3>
+<h1 align="center">Hi 👋, I'm Doha</h1>
 
 - 📫 How to reach me **doharamadan43@gmail.com**
 
